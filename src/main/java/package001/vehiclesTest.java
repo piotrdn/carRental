@@ -39,6 +39,74 @@ public class vehiclesTest {
         city.getCity(3);
         city.getCity(23);
     }
+    //@Test
+    /*public void fourthTest(){
+        vehicles carCount = new vehicles();
+        while(carCount.getTabVehicles(int i) < 3){
+            System.out.println(carCount.getTabVehicles(i));
+            i++;
+        }
+    }
+*/
+    @Test
+    public void fifthTest(){
+        vehicles randomNo = new vehicles();
+        int temp = randomNo.getRandom(-3,3);
+        System.out.println("Wygenerowana liczba to: " + temp);
+
+        if(temp > 0){
+            System.out.println("Wylosowana liczba jest dodatnia.");
+        }
+        else if(temp < 0){
+            System.out.println("Wylosowana liczba jest ujemna.");
+        }
+        else System.out.println("Liczba jest równa 0.");
+
+    }
+
+
+    @Test
+    public void graLosujaca(){
+        vehicles los = new vehicles();
+        int counter = 0;
+        int target;
+
+        do {
+            target = los.getRandom(-6,6);
+            System.out.println("Wylosowana liczba to: " + target);
+            counter = counter + 1;
+            //System.out.println("Ilosć losowań: " + counter);
+        }
+        while(target != 2); //dopóki fałsz
+        System.out.println("Ilosć losowań ------------> " + counter + " <---");
+
+    }
+
+
+    @Test
+    public void rysowanie(){
+        int n = 20;
+        //int m = 10;
+
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++)
+                System.out.print("#");
+            System.out.println();
+
+        }
+        //System.out.println();
+
+        for(int i=0;i<(n/3);i++){
+            System.out.print("#");
+            for(int j=0;j<(n/3);j++)
+                System.out.print("#");
+            System.out.println();
+
+        }
+    }
+
 
 
 }
+

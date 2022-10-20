@@ -1,4 +1,5 @@
 package package001;
+import java.util.Random;
 
 public class vehicles {
 
@@ -14,10 +15,16 @@ public class vehicles {
         vehiclesTab[4] = "Lamborghini Huracan";
         return vehiclesTab[i];
     }
-
     public void TabPrinter(int i){
         System.out.println("Car nr [" + i + "] " + "is: " + getTabVehicles(i));
     }
+
+
+    public int getRandom(int min, int max){  //metoda do liczb losowych
+        Random random = new Random();
+        return random.nextInt(max - min) +min;
+    }
+
 
 
 
