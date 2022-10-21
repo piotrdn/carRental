@@ -4,6 +4,29 @@ import org.junit.Test;
 
 public class vehiclesTest {
 
+
+    @Test
+    public void zeroTest(){
+        boolean z_bool; //true lub false
+        int x=5, y=6;
+        z_bool = x==y;
+
+        System.out.println(z_bool);
+        if(x>y){
+            System.out.println("x>y");
+        }
+        else if(x<y){
+            System.out.println("x<y");
+        }
+        else{
+            System.out.println("x=y");
+        }
+
+        vehicles setValue = new vehicles();
+        setValue.setValue(2, 7);
+
+    }
+
     @Test
     public void firstTest(){
         vehicles vehicle = new vehicles();
@@ -105,6 +128,7 @@ public class vehiclesTest {
 
         }
     }
+
 
 
 

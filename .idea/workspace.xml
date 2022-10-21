@@ -37,8 +37,8 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="JUnit.vehiclesTest.rysowanie">
-    <configuration name="vehiclesTest.fifthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.vehiclesTest.zeroTest">
+    <configuration name="vehiclesTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CarRental" />
       <extension name="coverage">
         <pattern>
@@ -48,7 +48,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="package001" />
       <option name="MAIN_CLASS_NAME" value="package001.vehiclesTest" />
-      <option name="METHOD_NAME" value="fifthTest" />
+      <option name="METHOD_NAME" value="firstTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,7 +86,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vehiclesTest.secondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="vehiclesTest.xdxdxd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CarRental" />
       <extension name="coverage">
         <pattern>
@@ -96,13 +96,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="package001" />
       <option name="MAIN_CLASS_NAME" value="package001.vehiclesTest" />
-      <option name="METHOD_NAME" value="secondTest" />
+      <option name="METHOD_NAME" value="xdxdxd" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vehiclesTest.thirdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="vehiclesTest.zeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CarRental" />
       <extension name="coverage">
         <pattern>
@@ -112,7 +112,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="package001" />
       <option name="MAIN_CLASS_NAME" value="package001.vehiclesTest" />
-      <option name="METHOD_NAME" value="thirdTest" />
+      <option name="METHOD_NAME" value="zeroTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.vehiclesTest.zeroTest" />
+        <item itemvalue="JUnit.vehiclesTest.firstTest" />
+        <item itemvalue="JUnit.vehiclesTest.xdxdxd" />
         <item itemvalue="JUnit.vehiclesTest.rysowanie" />
         <item itemvalue="JUnit.vehiclesTest.graLosujaca" />
-        <item itemvalue="JUnit.vehiclesTest.fifthTest" />
-        <item itemvalue="JUnit.vehiclesTest.secondTest" />
-        <item itemvalue="JUnit.vehiclesTest.thirdTest" />
       </list>
     </recent_temporary>
   </component>
@@ -150,34 +150,34 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="446" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1666213647486" />
-    <state width="1877" height="472" key="GridCell.Tab.0.bottom" timestamp="1666297136372">
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom" timestamp="1666361138514">
       <screen x="1920" y="-116" width="1920" height="1040" />
     </state>
-    <state width="1877" height="472" key="GridCell.Tab.0.bottom/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666297136372" />
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666361138514" />
     <state width="1237" height="182" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1666215934498" />
-    <state width="1877" height="472" key="GridCell.Tab.0.center" timestamp="1666297136372">
+    <state width="1877" height="258" key="GridCell.Tab.0.center" timestamp="1666361138514">
       <screen x="1920" y="-116" width="1920" height="1040" />
     </state>
-    <state width="1877" height="472" key="GridCell.Tab.0.center/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666297136372" />
+    <state width="1877" height="258" key="GridCell.Tab.0.center/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666361138514" />
     <state width="1237" height="182" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1666215934498" />
-    <state width="1877" height="472" key="GridCell.Tab.0.left" timestamp="1666297136371">
+    <state width="1877" height="258" key="GridCell.Tab.0.left" timestamp="1666361138514">
       <screen x="1920" y="-116" width="1920" height="1040" />
     </state>
-    <state width="1877" height="472" key="GridCell.Tab.0.left/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666297136371" />
+    <state width="1877" height="258" key="GridCell.Tab.0.left/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666361138514" />
     <state width="1237" height="182" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1666215934497" />
-    <state width="1877" height="472" key="GridCell.Tab.0.right" timestamp="1666297136372">
+    <state width="1877" height="258" key="GridCell.Tab.0.right" timestamp="1666361138514">
       <screen x="1920" y="-116" width="1920" height="1040" />
     </state>
-    <state width="1877" height="472" key="GridCell.Tab.0.right/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666297136372" />
+    <state width="1877" height="258" key="GridCell.Tab.0.right/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666361138514" />
     <state width="1237" height="182" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1666215934498" />
     <state x="2381" y="46" key="SettingsEditor" timestamp="1666291656951">
       <screen x="1920" y="-116" width="1920" height="1040" />
     </state>
     <state x="2381" y="46" key="SettingsEditor/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666291656951" />
-    <state x="2576" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1666279835218">
+    <state x="2576" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1666354872756">
       <screen x="1920" y="-116" width="1920" height="1040" />
     </state>
-    <state x="2576" y="228" key="com.intellij.ide.util.TipDialog/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666279835218" />
+    <state x="2576" y="228" key="com.intellij.ide.util.TipDialog/0.0.1280.760/1920.-116.1920.1040@1920.-116.1920.1040" timestamp="1666354872756" />
     <state x="2262" y="99" key="new project wizard" timestamp="1666296557458">
       <screen x="1920" y="-116" width="1920" height="1040" />
     </state>
